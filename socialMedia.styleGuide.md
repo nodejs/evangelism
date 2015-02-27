@@ -33,7 +33,9 @@ People are very happy when they get official mentions, links, and comments. **Me
 > ###### Localization note:
 > For those posting from localized io.js social media accounts, find a standardized writing style for your language and apply that if the English conventions outlined here aren't considered normal or "best practices" when writing properly in your language. Apply the standardized writing style's conventions to the categories listed below, as well as others that may be important for your language.
 
-#### Use Title Case for Titles and Headings
+#### Writing
+
+##### Use Title Case for Titles and Headings
 Title case is seen in every heading in this document. **Title case is where the first letter of every word in a given phrase** (in our case, titles of posts and headings inside a document) **is capitalized**. This excludes specific standard English words such as `a`, `to`, `the`, `an`, `at`, `are`, `of`, `by`, `for`, and so on, unless they are the first word in the title or section of a title (such as after a colon or dash). Some examples would be:
 
   * Today is a Good Day to Die
@@ -41,30 +43,38 @@ Title case is seen in every heading in this document. **Title case is where the 
   * The Squid: Death's Reawakening
   * Mogar is Ready - The Ultimate Guide to Fighting Bears
 
-#### Use Full Sentences, with Capitalization and Punctuation
+##### Use Full Sentences, with Capitalization and Punctuation
 **Follow proper sentence structure**. For example, in English, write with a capital at the beginning of every sentence, and a period at the end. You don't have to be up-tight; proper grammar, spelling, and punctuation can be used with just about anybody's vocabulary. **This simply ensures the io.js is seen as a professional endeavor**, run by mature human beings. This is extremely important to maintaining the best possible image of io.js in the collective community mind.
 
-#### Use Clear, Concise language
+##### Write Articles in Markdown, for Maintainability and Localization
+Markdown has basically become a universal writing format on the web. When writing blog posts, articles, and other long form information that will be posted that will represent io.js officially, please write the entire contents of the post in Markdown. We request this for two reasons.
+
+One is that it gives a central file or location for a post to be stored, commented on, and edited by the Evangelism WG to ensure it represents io.js to the best of its ability, following this styleguide. The other reason is that it allows for localization groups to
+
+#### Language
+
+##### Use Clear, Concise language
 Write clearly and concisely--**use words that convey your message as clearly as possible, minimizing possible confusion about meaning**. Outside of technical terms and messages, use lower-level common language to make content more understandable universally. Writing in this way allows for the message to be heard over the broadest range possible.
 
-#### Use the Active Voice
-**Write** post titles, social media entries, and comments **in the active voice**. The **active voice front-loads the _subject_** of the sentence, and ensures **the subject is the one taking action**, while the **passive voice front-loads the object** of the sentence, and the has **action applied to the subject via the object**. Here are some examples:
+
+##### Use the Active Voice
+**Write** post titles, social media entries, and comments **in the active voice**. The active voice front-loads the _subject_ of the sentence, and **ensures the subject is the one taking action**, while the passive voice front-loads the object of the sentence, and the has action applied to the subject via the object. Here are some examples:
 
 ---
 
 **Active**:
-  * io.js (*subject*) uses (*action*) a modern version of V8 (*object*).
+  * io.js (*subject*) is powered by (*action*) a modern version of V8 (*object*).
 
 **Passive**:
-  * A modern version of V8 (*object*) is used (*action*) by io.js (*subject*).
+  * A modern version of V8 (*object*) is powering (*action*) io.js (*subject*).
 
   ---
 
 **Active**:
-  * The community (*subject*) forked (*action*) Node.js (*object*), and named the fork (*secondary, compound action*) io.js.
+  * Some core contributors (*subject*) forked (*action*) Node.js (*object*), and named the fork (*secondary, compound action*) io.js.
 
 **Passive**:
-  * Node.js (*object*) was forked (*action*) by the community (*subject*), which named the fork (*secondary, compound action*) io.js.
+  * Node.js (*object*) was forked (*action*) some core contributors (*subject*); the fork is named (*secondary, compound action*) io.js.
 
   ---
 
