@@ -60,6 +60,11 @@ Write clearly and concisely--**use words that convey your message as clearly as 
 ##### Use the Active Voice
 **Write** post titles, social media entries, and comments **in the active voice**. The active voice front-loads the _subject_ of the sentence, and **ensures the subject is the one taking action**, while the passive voice front-loads the object of the sentence, and the has action applied to the subject via the object. Here are some examples:
 
+There are **several reasons** to write in the active voice **instead of the passive voice**:
+  * The passive voice **is frequently awkward or vague**, which can leave the reader confused.
+  * The passive voice **can be unnecessarily wordy**, making the meaning of your writing harder to understand.
+  * When using the passive voice, it is **easy to accidentally leave out the subject** (the person/thing/entity) that is taking the action.
+
 ---
 
 **Active**:
@@ -82,16 +87,11 @@ Write clearly and concisely--**use words that convey your message as clearly as 
 > This is a more complex example of the active voice. If your writing ends up like this, you should evaluate what you want to say, and decide if you need to write it in a more simple and concise way.
 
 **Active**:
-  * npm (*subject*) has been minimally changed (*action*) to be compatible (*tricky action-like; "minimally changed" is the action that has been actively done, compatibility was a result of that action*) with io.js (*object*) as well as Node.js (*secondary object*).
+  * npm (*subject*), a stable of Node.js (*secondary, set off object*) development, gained support (*action*) for io.js (*object*)  before version 1.0.0's public release (*tricky action-like; "minimally changed" is the action that has been actively done, compatibility was a result of that action*)
 
 **Passive**:
-  * io.js (*object*) compatibility (*tricky action-like; "minimally changed" is the action that has been actively done, compatibility was a result of that action*) minimally changed (*action*) npm (*subject*), which still has Node.js (*secondary object*) compatibility (*another tricky action-like*).
+  * io.js (*object*) was able to be supported (*action*) by npm (*subject*), a stable of Node.js (*secondary object*) development, before version 1.0.0 of io.js was publicly released (*tricky action-like; "minimally changed" is the action that has been actively done, compatibility was a result of that action*)
 
   ---
-
-There are **several reasons** to write in the active voice **instead of the passive voice**:
-  * The passive voice **is frequently awkward or vague**, which can leave the reader confused.
-  * The passive voice **can be unnecessarily wordy**, making the meaning of your writing harder to understand.
-  * When using the passive voice, it is **easy to accidentally leave out the subject** (the person/thing/entity) that is taking the action.
 
 There are times that using the passive voice is a better fit, but it is good to **keep in mind that the active voice is usually the better choice**. Remembering that, the choice is ultimately yours.
