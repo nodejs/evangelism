@@ -54,7 +54,7 @@ One is that it gives a central file or location for a post to be stored, comment
 #### Language
 
 ##### Use Clear, Concise language
-Write clearly and concisely--**use words that convey your message as clearly as possible, minimizing possible confusion about meaning**. Outside of technical terms and messages, use lower-level common language to make content more understandable universally. Writing in this way allows for the message to be heard over the broadest range possible.
+Write clearly and concisely. **Use words that clearly convey your meaning in order to eliminate potential confusion.** Outside of technical terms and messages, use common language to make content more universally understandable. This allows your message to reach the broadest audience possible.
 
 
 ##### Use the Active Voice
