@@ -68,10 +68,10 @@ There are **several reasons** to write in the active voice **instead of the pass
 ---
 
 **Active**:
-  * io.js (*subject*) is powered by (*action*) a modern version of V8 (*object*).
+  * io.js (*subject*) uses (*action*) a modern version of V8 (*object*).
 
 **Passive**:
-  * A modern version of V8 (*object*) is powering (*action*) io.js (*subject*).
+  * A modern version of V8 (*object*) is used by (*action*) io.js (*subject*).
 
   ---
 
@@ -79,7 +79,7 @@ There are **several reasons** to write in the active voice **instead of the pass
   * Some core contributors (*subject*) forked (*action*) Node.js (*object*), and named the fork (*secondary, compound action*) io.js.
 
 **Passive**:
-  * Node.js (*object*) was forked (*action*) some core contributors (*subject*); the fork is named (*secondary, compound action*) io.js.
+  * Node.js (*object*) was forked (*action*) by some core contributors (*subject*); the fork is named (*secondary, compound action*) io.js.
 
   ---
 
