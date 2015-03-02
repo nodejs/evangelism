@@ -38,7 +38,7 @@ The build team is in the process of being given access to the Linaro ARMv8 Serve
 * **[Roadmap Slides Review](https://www.youtube.com/watch?v=etI_UD4wXlo)** - A review of the roadmap slides before they were released to ensure they met with the message the project upholds.
 
 # io.js Support Added
-* **[Wallby.js](http://wallabyjs.com/)**, a while-you-write testing library for JavaScript, hit version 1.0 and [added support for io.js](http://dm.gl/2015/02/23/wallaby-version-one/)!
+* **[Wallaby.js](http://wallabyjs.com/)**, a while-you-write testing library for JavaScript, hit version 1.0 and [added support for io.js](http://dm.gl/2015/02/23/wallaby-version-one/)!
 * **[jsdom](https://github.com/tmpvar/jsdom)**, an implementation of the WHATWG DOM and HTML standards, just hit [version 4.0.0](https://github.com/tmpvar/jsdom/blob/master/Changelog.md#400), which added a _requirement_ of io.js.
 * **[give](https://github.com/mmalecki/give)**'s creator [tweeted](https://twitter.com/maciejmalecki/status/569629100215816192) that newer versions of give support io.js. Give is a git-based node.js/io.js version manager.
 * The **Firebase Realtime Client**, the official web/node.js JavaScript client for Firebase, [tweeted](https://twitter.com/FirebaseRelease/status/570000737343647744) that they added support for io.js in [version 2.2.1](https://www.firebase.com/docs/web/changelog.html#section-realtime-client)
