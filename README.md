@@ -1,8 +1,17 @@
 # Evangelism
 
+How to get involved!
+--------------------
+
+There are lots of ways to contribute to [io.js](https://github.com/iojs). If you are interested in contribution to io.js evangelism specifically, feel free to join in the conversations, help with [issues](https://github.com/iojs/evangelism/issues), and share the [roadmap](https://github.com/iojs/roadmap/). You don't have to be a member of the Working Group to pitch in!
+
+Join the conversation!
+
 [![Join the chat at https://gitter.im/iojs/evangelism](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/evangelism?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Letting the world know how awesome io.js is and how to get involved!
+
+
 
 
 ### Governance and Contributing
