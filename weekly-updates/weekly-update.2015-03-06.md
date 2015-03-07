@@ -7,32 +7,7 @@ On Friday, March 6th, [@rvagg](https://github.com/rvagg) released io.js [**v1.5.
 * **buffer**: New `Buffer#indexOf()` method, modelled off [`Array#indexOf()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf). Accepts a String, Buffer or a Number. Strings are interpreted as UTF8. (Trevor Norris) [#561](https://github.com/iojs/io.js/pull/561)
 * **fs**: `options` object properties in `'fs'` methods no longer perform a `hasOwnProperty()` check, thereby allowing options objects to have prototype properties that apply. (Jonathan Ong) [#635](https://github.com/iojs/io.js/pull/635)
 * **tls**: A likely TLS memory leak was reported by PayPal. Some of the recent changes in **stream_wrap** appear to be to blame. The initial fix is in [#1078](https://github.com/iojs/io.js/pull/1078), you can track the progress toward closing the leak at [#1075](https://github.com/iojs/io.js/issues/1075) (Fedor Indutny).
-* **npm**: Upgrade npm to 2.7.0. See [npm CHANGELOG.md](https://github.com/npm/npm/blob/master/CHANGELOG.md#v270-2015-02-26) for details including why this is a semver-minor when it could have been semver-major. Summary:
-  * [`145af65`](https://github.com/npm/npm/commit/145af6587f45de135cc876be2027ed818ed4ca6a)
-    [#4887](https://github.com/npm/npm/issues/4887) Replace calls to the
-    `node-gyp` script bundled with npm by passing the
-    `--node-gyp=/path/to/node-gyp` option to npm. Swap in `pangyp` or a version
-    of `node-gyp` modified to work better with io.js without having to touch
-    npm's code!  ([@ackalker](https://github.com/ackalker))
-  * [`2f6a1df`](https://github.com/npm/npm/commit/2f6a1df3e1e3e0a3bc4abb69e40f59a64204e7aa)
-    [#1999](https://github.com/npm/npm/issues/1999) Only run `stop` and `start`
-    scripts (plus their pre- and post- scripts) when there's no `restart` script
-    defined. This makes it easier to support graceful restarts of services
-    managed by npm.  ([@watilde](https://github.com/watilde) /
-    [@scien](https://github.com/scien))
-  * [`448efd0`](https://github.com/npm/npm/commit/448efd0eaa6f97af0889bf47efc543a1ea2f8d7e)
-    [#2853](https://github.com/npm/npm/issues/2853) Add support for `--dev` and
-    `--prod` to `npm ls`, so that you can list only the trees of production or
-    development dependencies, as desired.
-    ([@watilde](https://github.com/watilde))
-  * [`a0a8777`](https://github.com/npm/npm/commit/a0a87777af8bee180e4e9321699f050c29ed5ac4)
-    [#7463](https://github.com/npm/npm/issues/7463) Split the list printed by
-    `npm run-script` into lifecycle scripts and scripts directly invoked via `npm
-    run-script`. ([@watilde](https://github.com/watilde))
-  * [`a5edc17`](https://github.com/npm/npm/commit/a5edc17d5ef1435b468a445156a4a109df80f92b)
-    [#6749](https://github.com/npm/npm/issues/6749) `init-package-json@1.3.1`:
-    Support for passing scopes to `npm init` so packages are initialized as part
-    of that scope / organization / team. ([@watilde](https://github.com/watilde))
+* **npm**: Upgrade npm to 2.7.0. See [npm CHANGELOG.md](https://github.com/npm/npm/blob/master/CHANGELOG.md#v270-2015-02-26) for details including why this is a semver-minor when it could have been semver-major.
 * **TC**: Colin Ihrig (@cjihrig) resigned from the TC due to his desire to do more code and fewer meetings.
 
 ### Known issues
@@ -45,7 +20,7 @@ On Friday, March 6th, [@rvagg](https://github.com/rvagg) released io.js [**v1.5.
 
 # Community Updates
 
-* You can relax knowing that io.js and latest node.js [**are not affected**]((https://strongloop.com/strongblog/are-node-and-io-js-affected-by-the-freak-attack-openssl-vulnerability/) by the [FREAK Attack](https://freakattack.com/).  You are running io.js or the latest version of node.js, right?
+* You can relax knowing that io.js and latest node.js [**are not affected**](https://strongloop.com/strongblog/are-node-and-io-js-affected-by-the-freak-attack-openssl-vulnerability/) by the [FREAK Attack](https://freakattack.com/).  You are running io.js or the latest version of node.js, right?
 
 * Walmart is now sponsoring a build machine for the io.js Jenkins CI system.  The @iojs/build team is working on creating io.js SunOS binaries (like you can get from nodejs.org).  A V8 fix ([iojs/io.js#1079](https://github.com/iojs/io.js/pull/1079)) needs to be landed first before more progress can be made.
 * We would also like to thank the following companies for contributing hardware and related technology/support/engineering for io.js builds:
@@ -61,7 +36,7 @@ On Friday, March 6th, [@rvagg](https://github.com/rvagg) released io.js [**v1.5.
 * It seems that **PayPal** is running an experiment comparing [Kappa](https://www.npmjs.com/package/kappa)  on io.js vs node.js 0.12 vs node.js v0.10.  The PayPal team identified a likely TLS memory leak. Initial fix is in [#1078](https://github.com/iojs/io.js/pull/1078) and progress towards closing is in [#1075](https://github.com/iojs/io.js/issues/1075)
 
 * [**NodeSource**](http://nodesource.com) is now providing io.js [Linux binary](https://nodesource.com/blog/nodejs-v012-iojs-and-the-nodesource-linux-repositories) packages for Ubuntu/Debian as well as RHEL/Fedora distributions.
-* The io.js [Docker build]((https://registry.hub.docker.com/u/library/iojs/) is one of thirteen new [official Docker repositories](http://blog.docker.com/2015/03/thirteen-new-official-repositories-added-in-january-and-february/) added in January and February.
+* The io.js [Docker build](https://registry.hub.docker.com/u/library/iojs/) is one of thirteen new [official Docker repositories](http://blog.docker.com/2015/03/thirteen-new-official-repositories-added-in-january-and-february/) added in January and February.
 
 * NodeBots and IoT people should be happy to hear that the just-announced [**Tessel2**](http://blog.technical.io/post/112787427217/tessel-2-new-hardware-for-the-tessel-ecosystem) runs [io.js natively](http://blog.technical.io/post/112888410737/moving-faster-with-io-js).
 * [**@maxbeatty**](https://twitter.com/maxbeatty) is working on a new version of the [jsperf.com](http://jsperf.com/) backend, running on io.js and it is entirely [open source](https://github.com/jsperf/jsperf.com).  Contributions are welcome!
