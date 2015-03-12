@@ -27,7 +27,7 @@ You can view them at:
 * [Mikeal Rogers](http://github.com/mikeal) - [@mikeal](http://twitter.com/mikeal)
 * [Ross Kukulinski](http://github.com/rosskukulinski) - [@rosskukulinski](http://twitter.com/rosskukulinski)
 * [Emily Rose](https://github.com/emilyrose) -  [@nexxylove](https://twitter.com/nexxylove)
-* [Julian Duque](https://github.com/julianduque) - [@julianduque](https://twitter.com/julianduque)
+* [Julian Duque](https://github.com/julianduque) - [@julian_duque](https://twitter.com/julian_duque)
 * [Tierney Coren](https://github.com/bnb) - [@bitandbang](https://twitter.com/bitandbang)
 * [Simeon Vincent](https://github.com/svincent) - [@dotproto](https://twitter.com/dotproto)
 * [Yosuke Furukawa](https://github.com/yosuke-furukawa) - [@yosuke-furukawa](https://twitter.com/yosuke_furukawa)
