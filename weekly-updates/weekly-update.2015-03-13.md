@@ -24,7 +24,8 @@ On Monday, March 9th, [@rvagg](https://github.com/rvagg) released io.js [v1.5.1]
 * [Mikeal Rogers](https://github.com/mikeal) was interviewed for [Descriptive](http://descriptive.audio) podcast on an episoded called [We've Never Had This Many Active Contributors to Core Before](http://descriptive.audio/episodes/12)
 * [Mark Wolfe](https://twitter.com/wolfeidau) gave a [talk about io.js](https://twitter.com/wolfeidau/status/575785856545378304) at [@melbjs](https://twitter.com/melbjs) meetup, slides are published [here](https://speakerdeck.com/wolfeidau/iojs-bringing-es6-to-the-node)
 * [dockeri.co](http://dockeri.co/) now runs on io.js, you can see the announcement [here](https://twitter.com/wjblankenship/status/575867637680369665)
-* [Node.js Advisory Board](https://nodejs.org/about/advisory-board/) are talking about the [io.js/Node.js reconcilitation proposal](https://github.com/iojs/io.js/issues/978), you can check the meeting minutes [here](https://github.com/joyent/nodejs-advisory-board/blob/master/meetings/2015-03-09/minutes.md#nodejsiojs-reconciliation-bb)
+* [Node.js Advisory Board](https://nodejs.org/about/advisory-board/) are talking about the [io.js/Node.js reconciliation proposal](https://github.com/iojs/io.js/issues/978), you can check the meeting minutes [here](https://github.com/joyent/nodejs-advisory-board/blob/master/meetings/2015-03-09/minutes.md#nodejsiojs-reconciliation-bb)
+* io.js TC Meeting 2015-03-11 is available [here](http://www.youtube.com/watch?v=xXLnNSL0qvU)
 
 # Upcoming Events
 
