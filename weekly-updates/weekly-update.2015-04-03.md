@@ -31,6 +31,7 @@ This week we had one io.js release [v1.6.3](https://iojs.org/dist/v1.6.3/), comp
 * Added support for iojs in [Reactive-Extensions/RxJS](https://travis-ci.org/Reactive-Extensions/RxJS/builds/56671837)
 * [joyent/nodejs-advisory-board#30](https://github.com/joyent/nodejs-advisory-board/pull/30) merged
 * Mikeal Rogers working on reconciling Project Lifecyce and WIG [joyent/nodejs-advisory-board#33](https://github.com/joyent/nodejs-advisory-board/pull/33)
+* Rod Vagg opened the discussion forum about Node.js reconciliation in [iojs/io.js#1336](https://github.com/iojs/io.js/issues/1336)
 
 # Upcoming Events
 
