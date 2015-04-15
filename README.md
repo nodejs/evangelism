@@ -29,5 +29,4 @@ You can view them at:
 * [Emily Rose](https://github.com/emilyrose) -  [@nexxylove](https://twitter.com/nexxylove)
 * [Julian Duque](https://github.com/julianduque) - [@julian_duque](https://twitter.com/julian_duque)
 * [Tierney Coren](https://github.com/bnb) - [@bitandbang](https://twitter.com/bitandbang)
-* [Simeon Vincent](https://github.com/svincent) - [@dotproto](https://twitter.com/dotproto)
 * [Yosuke Furukawa](https://github.com/yosuke-furukawa) - [@yosuke-furukawa](https://twitter.com/yosuke_furukawa)
