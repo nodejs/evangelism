@@ -31,3 +31,4 @@ You can view them at:
 * [Tierney Coren](https://github.com/bnb) - [@bitandbang](https://twitter.com/bitandbang)
 * [Yosuke Furukawa](https://github.com/yosuke-furukawa) - [@yosuke-furukawa](https://twitter.com/yosuke_furukawa)
 * [Tony Pujals](https://github.com/tonypujals) - [@subfuzion](https://twitter.com/subfuzion)
+* [Giovanny Andres Gongora Granada](https://github.com/Gioyik) - [@Gioyik](https://twitter.com/Gioyik)
