@@ -11,6 +11,14 @@ This week we had two io.js releases [v1.7.0](https://iojs.org/dist/v1.7.0/) and 
   * Tests: timeouts have been tuned specifically for slower platforms, detected as ARMv6 and ARMv7. (Roman Reiss) [#1366](https://github.com/iojs/io.js/pull/1366).
 * **npm**: Upgrade npm to 2.7.6. See the [release notes](https://github.com/npm/npm/releases/tag/v2.7.6) for details.
 
+### Known issues
+
+* Some problems with unreferenced timers running during `beforeExit` are still to be resolved. See [#1264](https://github.com/iojs/io.js/issues/1264).
+* Surrogate pair in REPL can freeze terminal [#690](https://github.com/iojs/io.js/issues/690)
+* `process.send()` is not synchronous as the docs suggest, a regression introduced in 1.0.2, see [#760](https://github.com/iojs/io.js/issues/760) and fix in [#774](https://github.com/iojs/io.js/issues/774)
+* Calling `dns.setServers()` while a DNS query is in progress can cause the process to crash on a failed assertion [#894](https://github.com/iojs/io.js/issues/894)
+* readline: split escapes are processed incorrectly, see [#1403](https://github.com/iojs/io.js/issues/1403)
+
 ### Community Updates
 
 * Difference between io.js and The Node Foundation [iojs/io.js#1416](https://github.com/iojs/io.js/issues/1416).
