@@ -37,5 +37,3 @@ will be removed at a later point. (Roman Reiss) [#1363](https://github.com/iojs/
 * [NodeConf Adventure](http://nodeconf.com/) tickets are on sale, June 11th - 14th at Walker Creek Ranch, CA
 * [CascadiaJS](http://2015.cascadiajs.com/) tickets are on sale, July 8th - 10th at Washington State
 * [NodeConf EU](http://nodeconf.eu/) tickets are on sale, September 6th - 9th at Waterford, Ireland
-* [nodeSchool Tokyo](http://nodejs.connpass.com/event/13182/) will be held in April 12th at Tokyo, Japan
-
