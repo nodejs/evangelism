@@ -19,4 +19,5 @@ This week we had one io.js nightly release [v2.0](https://iojs.org/download/nigh
 
 * [NodeConf Adventure](http://nodeconf.com/) tickets are on sale, June 11th - 14th at Walker Creek Ranch, CA
 * [CascadiaJS](http://2015.cascadiajs.com/) tickets are on sale, July 8th - 10th at Washington State
+* [BrazilJS Conf]() tickets are on sale, August 21st - 22nd at Shopping Center BarraShoppingSul
 * [NodeConf EU](http://nodeconf.eu/) tickets are on sale, September 6th - 9th at Waterford, Ireland
