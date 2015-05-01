@@ -14,6 +14,7 @@ This week we had one io.js nightly release [v2.0](https://iojs.org/download/nigh
 * initial [repo](https://github.com/jasnell/node.js-convergence) for code convergence work for io.js/node.js.
 * Node.js Foundation Governance/Convergence Call on [Youtube](https://www.youtube.com/watch?v=u9h0s3YtNAU).
 * Microsoft releases new [Visual Studio Code](https://code.visualstudio.com/) based on Electron (AtomShell).
+* io.js support coming to [Modulus](http://blog.modulus.io/upcoming-updates-for-nodejs-applications)
 
 ### Upcoming Events
 
