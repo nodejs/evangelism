@@ -15,6 +15,7 @@ This week we had one io.js nightly release [v2.0](https://iojs.org/download/nigh
 * Node.js Foundation Governance/Convergence Call on [Youtube](https://www.youtube.com/watch?v=u9h0s3YtNAU).
 * Microsoft releases new [Visual Studio Code](https://code.visualstudio.com/) based on Electron (AtomShell).
 * io.js support coming to [Modulus](http://blog.modulus.io/upcoming-updates-for-nodejs-applications)
+* Yosuke Furukawa created [iojs-new-features repo](https://github.com/yosuke-furukawa/iojs-new-features) with upcomming changes in io.js v2.0.
 
 ### Upcoming Events
 
