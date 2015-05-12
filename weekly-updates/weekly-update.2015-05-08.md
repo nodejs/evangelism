@@ -3,6 +3,7 @@ This week we had two io.js releases [v2.0.0](https://iojs.org/dist/v2.0.0/) and 
 
 ### Notable changes
 
+#### 2.0.1
 * **async_wrap**: (Trevor Norris) [#1614](https://github.com/iojs/io.js/pull/1614)
   - it is now possible to filter by providers
   - bit flags have been removed and replaced with method calls on the binding object
@@ -14,6 +15,8 @@ This week we had two io.js releases [v2.0.0](https://iojs.org/dist/v2.0.0/) and 
   - [#1512](https://github.com/iojs/io.js/issues/1512) should properly fix Windows termination errors
 * **addons**: the `NODE_DEPRECATED` macro was causing problems when compiling addons with older compilers, this should now be resolved (Ben Noordhuis) [#1626](https://github.com/iojs/io.js/pull/1626)
 * **V8**: upgrade V8 from 4.2.77.18 to 4.2.77.20 with minor fixes, including a bug preventing builds on FreeBSD
+
+#### 2.0.0
 * **crypto**: significantly reduced memory usage for TLS (Fedor Indutny & Сковорода Никита Андреевич) [#1529](https://github.com/iojs/io.js/pull/1529)
 * **net**: `socket.connect()` now accepts a `'lookup'` option for a custom DNS resolution mechanism, defaults to `dns.lookup()` (Evan Lucas) [#1505](https://github.com/iojs/io.js/pull/1505)
 * **npm**: Upgrade npm to 2.9.0. See the [v2.8.4](https://github.com/npm/npm/releases/tag/v2.8.4) and [v2.9.0](https://github.com/npm/npm/releases/tag/v2.9.0) release notes for details. Notable items:
@@ -53,7 +56,6 @@ Full details at https://github.com/iojs/io.js/wiki/Breaking-Changes#200-from-1x
 _Note: a new version of the 'url' module was reverted prior to release as it was decided the potential for breakage across the npm ecosystem was too great and that more compatibility work needed to be done before releasing it. See [#1602](https://github.com/iojs/io.js/pull/1602) for further information._
 
 ### Known issues
-
 See https://github.com/iojs/io.js/labels/confirmed-bug for complete and current list of known issues.
 
 * Some problems with unreferenced timers running during `beforeExit` are still to be resolved. See [#1264](https://github.com/iojs/io.js/issues/1264).
