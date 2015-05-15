@@ -4,7 +4,7 @@ We are happy to speak this news, **"io.js decides to join the Node Foundation"**
 
 As a first step, we will move from `iojs` organization to `nodejs` organization and will converge `joyent/node` gradually. We will continue to release `io.js` until the convergence have done.
 
-If you would like to see the convergence plan in detail, please check it at [jashkell repo](https://github.com/jasnell/dev-policy/blob/master/convergence.md). When you would like to ask questions, feel free to ask [@Fishrock123](https://github.com/nodejs/evangelism/pull/fishrock123@rocketmail.com). The discussion log is [here](https://github.com/nodejs/io.js/issues/1664). 
+If you would like to see the convergence plan in detail, please check it at [jashkell repo](https://github.com/jasnell/dev-policy/blob/master/convergence.md). When you would like to ask questions, feel free to ask [@Fishrock123](mailto:fishrock123@rocketmail.com). The discussion log is [here](https://github.com/nodejs/io.js/issues/1664). 
 
 Please wait for new node release a little more :)
 
