@@ -4,19 +4,19 @@ We are happy to speak this news, **"io.js decides to join the Node Foundation"**
 
 As a first step, we will move from `iojs` organization to `nodejs` organization and will converge `joyent/node` gradually. We will continue to release `io.js` until the convergence have done.
 
-If you would like to see the convergence plan in detail, please check it at [jashkell repo](https://github.com/jasnell/dev-policy/blob/master/convergence.md). When you would like to ask questions, feel free to ask [@Fishrock123](mailto:fishrock123@rocketmail.com). The discussion log is [here](https://github.com/nodejs/io.js/issues/1664). 
+If you would like to see the convergence plan in detail, please check it at [jashkell repo](https://github.com/jasnell/dev-policy/blob/master/convergence.md). When you would like to ask questions, feel free to ask [@Fishrock123](mailto:fishrock123@rocketmail.com). The discussion log is [here](https://github.com/nodejs/node/issues/1664). 
 
 Please wait for new node release a little more :)
-
-# io.js release
-This week we hadn't io.js release.
 
 ### Community Updates
 
 * [Performance Showdown](https://raygun.io/blog/2015/05/performance-showdown-node-js-vs-io-js-v2-0-0/): Node.js vs. io.js v2.0.0.
-* Microsoft will propose Node run different JavaScript backend including `Chakra`.
+* Microsoft has [node.js](https://github.com/Microsoft/node) running on their JavaScript VM `Chakra`.
 * {node,io}.js [benchmark graphs](http://thlorenz.com/benchgraph/).
 * [TC members](https://twitter.com/rvagg/status/598605393636429825) decide to move io.js to Node Foundation and the organization name will be renamed nodejs.
+* Hardware WG Meeting on [YouTube](https://www.youtube.com/watch?v=EFJVMGRtDWE).
+* `io.js/node.js` Build Convergence Meeting on [YouTube](https://www.youtube.com/watch?v=8dxkM9vHmrY).
+* TC Meeting on [YouTube](https://www.youtube.com/watch?v=UbYiFLf7MpU).
 
 ### Upcoming Events
 
