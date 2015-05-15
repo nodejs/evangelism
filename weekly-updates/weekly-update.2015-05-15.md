@@ -17,6 +17,7 @@ This week we hadn't io.js release.
 * Microsoft will propose Node run different JavaScript backend including `Chakra`.
 * {node,io}.js [benchmark graphs](http://thlorenz.com/benchgraph/).
 * [TC members](https://twitter.com/rvagg/status/598605393636429825) decide to move io.js to Node Foundation and the organization name will be renamed nodejs.
+* Github `io.js` organization has been renamed `nodejs`.
 
 ### Upcoming Events
 
