@@ -1,6 +1,6 @@
 # io.js News
 
-We are happy to speak this news, **"io.js decides to join the Node Foundation"**. And our organization name will be renamed `nodejs`.
+We are happy to announce this news, **"io.js decides to join the Node Foundation"**. And our organization name will be renamed `nodejs`.
 
 As a first step, we will move from `iojs` organization to `nodejs` organization and will converge `joyent/node` gradually. We will continue to release `io.js` until the convergence have done.
 
