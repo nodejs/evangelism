@@ -42,7 +42,7 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 ### Community Updates
 
 * Mikeal Rogers post about **Promise errors in io.js** on [Modulus.io](http://blog.modulus.io/promise-errors-in-iojs)
-* A lot of cities joined NodeSchool International Day.
+* [NodeSchool International Day](http://nodeschool.io/international-day/) has been held for the first time. [40 cities](https://github.com/nodeschool/international-day/issues?q=label%3Arollcall-2015+is%3Aclosed) joined.
 * [Logjam](https://weakdh.org/) attack vulnerability detected on Diffie-Hellman Key exchange . io.js [fixed the vulnerability](https://github.com/nodejs/io.js/pull/1739) on [v2.1.0](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md#2015-05-24-version-210-rvagg).
 
 ### Upcoming Events
