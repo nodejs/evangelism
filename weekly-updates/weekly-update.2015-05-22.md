@@ -1,5 +1,5 @@
 # io.js 1.8, 2.0 and 2.1 releases
-This week we had three io.js releases [v1.8.2](https://iojs.org/dist/v1.8.2/), [v2.0.2](https://iojs.org/dist/v2.0.2/) and [v2.1.0](https://iojs.org/dist/v2.10/), complete changelog can be found [on GitHub](https://github.com/iojs/io.js/blob/master/CHANGELOG.md).
+This week we had three io.js releases [v1.8.2](https://iojs.org/dist/v1.8.2/), [v2.0.2](https://iojs.org/dist/v2.0.2/) and [v2.1.0](https://iojs.org/dist/v2.1.0/), complete changelog can be found [on GitHub](https://github.com/iojs/io.js/blob/master/CHANGELOG.md).
 
 ### Notable changes
 
