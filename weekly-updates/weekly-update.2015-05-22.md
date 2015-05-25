@@ -43,7 +43,7 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 
 * Mikeal Rogers post about **Promise errors in io.js** on [Modulus.io](http://blog.modulus.io/promise-errors-in-iojs)
 * A lot of cities joined NodeSchool International Day.
-* io.js v2.1.0 fixed the Logjam attack vulnerability. [nodejs/io.js#1739](https://github.com/nodejs/io.js/pull/1739)
+* [Logjam](https://weakdh.org/) attack vulnerability detected on Diffie-Hellman Key exchange . io.js [fixed the vulnerability](https://github.com/nodejs/io.js/pull/1739) on [v2.1.0](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md#2015-05-24-version-210-rvagg).
 
 ### Upcoming Events
 
