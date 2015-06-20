@@ -27,7 +27,7 @@ This week we hadn't io.js releases, complete changelog from previous releases ca
 * [Painless Microsoft SQL Server with Node.js and seriate](http://developer.leankit.com/painless-sql-server-with-nodejs-and-seriate/) article by Leankit
 * Blog post: [Golden rules for JS introduction to your EE project](http://blog.upwardsmotion.com/golden-rules-for-js-introduction-to-your-ee-project/)
 * [NodeSecurity](https://nodesecurity.io/) project
-* Articles from organizations who joined Nodejs Foundation:
+* Organizations joining the Node.js Foundation:
   * [Modulus/Progress](http://blog.modulus.io/modulus-and-progress-software-join-nodejs-foundation)
   * [IBM](https://developer.ibm.com/bluemix/2015/06/16/node-js-foundation-launched/)
   * [Groupon](https://engineering.groupon.com/2015/node-js/groupon-is-proud-to-be-a-part-of-the-new-node-js-foundation/)
