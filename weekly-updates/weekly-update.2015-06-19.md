@@ -1,10 +1,10 @@
 # io.js News
-This week we hadn't io.js releases, complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md).
+This week we didn't have io.js releases, complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md).
 
 ### Community Updates
 
 * ES2015 is approved, ES2015 is now an [ecma standard](https://esdiscuss.org/topic/ecmascript-2015-is-now-an-ecma-standard).
-* Linux foundation announces [nodejs foundation community](http://www.linuxfoundation.org/news-media/announcements/2015/06/nodejs-foundation-advances-community-collaboration-announces-new)
+* Linux foundation announces [Node.js Foundation](http://www.linuxfoundation.org/news-media/announcements/2015/06/nodejs-foundation-advances-community-collaboration-announces-new)
 * IBM VP Angel Diaz talks about the new Node.js Foundation. Video on [YouTube](https://www.youtube.com/watch?v=9iuqi8c91mg&feature=youtu.be)
 * Blog post by Raymond Camden: [Using Cloud Code, Mobile Application Security, Node.js and Bluemix](http://www.raymondcamden.com/2015/06/09/using-cloud-code-mobile-application-security-node-js-and-bluemix)
 * [Should I use Node.js or io.js? And which version?](https://strongloop.com/strongblog/should-i-use-node-js-or-io-js-and-which-version/) article by Stronloop
