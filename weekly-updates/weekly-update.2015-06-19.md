@@ -18,7 +18,7 @@ This week we didn't have io.js releases, complete changelog from previous releas
 * Interview in [Free Software Magazine](http://www.freesoftwaremagazine.com/articles/interview_mikeal_rogers_nodejs_fork_ended_giant_unifying_step_forward) about the merge and the foundation
 * [Why Node.js is hitting the big time in Enterprise Markets](http://apmblog.dynatrace.com/2015/04/09/node-js-is-hitting-the-big-time-in-enterprise-markets/) and [Keeping things simple with Node.js](http://apmblog.dynatrace.com/2015/06/02/keeping-things-simple-with-node-js/) articles by Daniel Khan
 * Blog post by Paul Sauve: [Comparing NodeJS IDEs (now with ST3 and WebStorm!)](https://paulb.gd/comparing-nodejs-ides/)
-* [Understanding npm](https://unpm.nodesource.com/) by Nodesource
+* [Understanding npm](https://unpm.nodesource.com/) and [blog post](https://medium.com/@nodesource/npm-is-massive-2bdd9417591c) about it by Nodesource.
 * [Node.js High Availability](https://www.box.com/blog/node-js-high-availability-at-box/) article by Box
 * Deploying a Scalable Node.js Application with Docker by Nodevember. Video on [YouTube](https://www.youtube.com/watch?v=uhNpSWI8MTM)
 * [Top 10 Reasons To Use Node.js](http://blog.modulus.io/top-10-reasons-to-use-node) article by Modulus.io
@@ -26,6 +26,7 @@ This week we didn't have io.js releases, complete changelog from previous releas
 * [Painless Microsoft SQL Server with Node.js and seriate](http://developer.leankit.com/painless-sql-server-with-nodejs-and-seriate/) article by Leankit
 * Blog post: [Golden rules for JS introduction to your EE project](http://blog.upwardsmotion.com/golden-rules-for-js-introduction-to-your-ee-project/)
 * [NodeSecurity](https://nodesecurity.io/) project
+* [The State of Node in the Enterprise](https://medium.com/@nodesource/the-state-of-node-in-the-enterprise-e513fbc0bdc) by Rod Vagg
 * Organizations joining the Node.js Foundation:
   * [Modulus/Progress](http://blog.modulus.io/modulus-and-progress-software-join-nodejs-foundation)
   * [IBM](https://developer.ibm.com/bluemix/2015/06/16/node-js-foundation-launched/)
