@@ -16,7 +16,6 @@ This week we didn't have io.js releases, complete changelog from previous releas
 * [Containerizing Node.js Apps with Docker and StrongLoop](https://strongloop.com/strongblog/containerizing-node-js-apps-with-docker-and-strongloop/) article by Strongloop
 * [Built in Node.js](http://builtinnode.com/): startups, apps, projects using Node
 * Interview in [Free Software Magazine](http://www.freesoftwaremagazine.com/articles/interview_mikeal_rogers_nodejs_fork_ended_giant_unifying_step_forward) about the merge and the foundation
-* [Containerizing Node.js Apps with Docker and StrongLoop](https://strongloop.com/strongblog/containerizing-node-js-apps-with-docker-and-strongloop/) article by Stronloop
 * [Why Node.js is hitting the big time in Enterprise Markets](http://apmblog.dynatrace.com/2015/04/09/node-js-is-hitting-the-big-time-in-enterprise-markets/) and [Keeping things simple with Node.js](http://apmblog.dynatrace.com/2015/06/02/keeping-things-simple-with-node-js/) articles by Daniel Khan
 * Blog post by Paul Sauve: [Comparing NodeJS IDEs (now with ST3 and WebStorm!)](https://paulb.gd/comparing-nodejs-ides/)
 * [Understanding npm](https://unpm.nodesource.com/) by Nodesource
