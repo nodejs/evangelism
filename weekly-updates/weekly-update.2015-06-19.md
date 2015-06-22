@@ -1,4 +1,4 @@
-# io.js News
+# io.js and Node.js News
 This week we didn't have io.js releases, complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md).
 
 ### Community Updates
