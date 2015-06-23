@@ -7,7 +7,6 @@ This week we didn't have io.js releases, complete changelog from previous releas
 * Linux foundation announces [Node.js Foundation](http://www.linuxfoundation.org/news-media/announcements/2015/06/nodejs-foundation-advances-community-collaboration-announces-new)
 * IBM VP Angel Diaz talks about the new Node.js Foundation. Video on [YouTube](https://www.youtube.com/watch?v=9iuqi8c91mg&feature=youtu.be)
 * Blog post by Raymond Camden: [Using Cloud Code, Mobile Application Security, Node.js and Bluemix](http://www.raymondcamden.com/2015/06/09/using-cloud-code-mobile-application-security-node-js-and-bluemix)
-* [Should I use Node.js or io.js? And which version?](https://strongloop.com/strongblog/should-i-use-node-js-or-io-js-and-which-version/) article by Stronloop
 * [Deploying Multiple Node.js Apps with strong-pm.io](https://strongloop.com/strongblog/deploying-multiple-node-js-apps-with-strong-pm-io/) article by Strongloop
 * [How to Implement Node + React Isomorphic JavaScript & Why it Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/) article by Strongloop
 * [The smartest way to program smart things: Node.js](http://radar.oreilly.com/2015/06/the-smartest-way-to-program-smart-things-node-js.html) article on O'Reilly Radar by Leah Hunter
@@ -22,10 +21,8 @@ This week we didn't have io.js releases, complete changelog from previous releas
 * [Node.js High Availability](https://www.box.com/blog/node-js-high-availability-at-box/) article by Box
 * Deploying a Scalable Node.js Application with Docker by Nodevember. Video on [YouTube](https://www.youtube.com/watch?v=uhNpSWI8MTM)
 * [Top 10 Reasons To Use Node.js](http://blog.modulus.io/top-10-reasons-to-use-node) article by Modulus.io
-* [Why Node.js is Ideal for the Internet of Things](http://www.programmableweb.com/news/why-node.js-ideal-internet-things/analysis/2014/07/31) article by ProgrammableWeb
 * [Painless Microsoft SQL Server with Node.js and seriate](http://developer.leankit.com/painless-sql-server-with-nodejs-and-seriate/) article by Leankit
 * Blog post: [Golden rules for JS introduction to your EE project](http://blog.upwardsmotion.com/golden-rules-for-js-introduction-to-your-ee-project/)
-* [NodeSecurity](https://nodesecurity.io/) project
 * [The State of Node in the Enterprise](https://medium.com/@nodesource/the-state-of-node-in-the-enterprise-e513fbc0bdc) by Rod Vagg
 * Organizations joining the Node.js Foundation:
   * [Modulus/Progress](http://blog.modulus.io/modulus-and-progress-software-join-nodejs-foundation)
