@@ -30,7 +30,6 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 
 ### Upcoming Events
 
-* [Nodeday](http://nodeday.com) tickets are free, June 26th at DigitasLBi, London
 * [CascadiaJS](http://2015.cascadiajs.com/) tickets are on sale, July 8th - 10th at Washington State
 * [BrazilJS Conf](http://braziljs.com.br/) tickets are on sale, August 21st - 22nd at Shopping Center BarraShoppingSul
 * [NodeConf EU](http://nodeconf.eu/) tickets are on sale, September 6th - 9th at Waterford, Ireland
