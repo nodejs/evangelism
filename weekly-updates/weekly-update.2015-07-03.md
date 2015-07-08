@@ -1,4 +1,4 @@
-### io.js Week of July 3rd
+### io.js and Node.js News — July 3rd
 Important patches for io.js 1.8 and 2.3 and upcoming events.
 
 ### io.js 1.8 and 2.3 Releases
@@ -14,8 +14,8 @@ This week we have three io.js releases: [v2.3.2](https://iojs.org/dist/v2.3.3/) 
 * **v8**: Fixed an out-of-band write in utf8 decoder. **This is an important security update** as it can be used to cause a denial of service attack.
 * **openssl**: Upgrade to 1.0.2b and 1.0.2c, introduces DHE man-in-the-middle protection (Logjam) and fixes malformed ECParameters causing infinite loop (CVE-2015-1788). See the [security advisory](https://www.openssl.org/news/secadv_20150611.txt) for full details. (Shigeki Ohtsu) [#1950](https://github.com/nodejs/io.js/pull/1950) [#1958](https://github.com/nodejs/io.js/pull/1958)
 * **build**:
-  - Added support for compiling with Microsoft Visual C++ 2015
-  - Started building and distributing headers-only tarballs along with binaries
+  * Added support for compiling with Microsoft Visual C++ 2015
+  * Started building and distributing headers*only tarballs along with binaries
 
 #### 2.3.2
 
