@@ -9,6 +9,9 @@ This week we have one io.js releases: [v2.4.0](https://iojs.org/dist/v2.4.0/), c
 
 #### 2.4.0
 
+* **src**: Added a new `--track-heap-objects` flag to track heap object allocations for heap snapshots (Bradley Meck) [#2135](https://github.com/nodejs/io.js/pull/2135).
+* **readline**: Fixed a freeze that affected the repl if the keypress event handler threw (Alex Kocharin) [#2107](https://github.com/nodejs/io.js/pull/2107).
+* **npm**: Upgraded to v2.13.0, release notes can be found in <https://github.com/npm/npm/releases/tag/v2.13.0> (Forrest L Norvell) [#2152](https://github.com/nodejs/io.js/pull/2152).
 
 ### Known issues
 
