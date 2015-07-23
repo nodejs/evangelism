@@ -1,5 +1,5 @@
 ### io.js and Node.js News — July 17th
-io.js 2.4.0 is released, apigee joined our foundation and Intl WG start.
+io.js 2.4.0 is released, Apigee joined our foundation and Intl WG start.
 
 ### io.js 2.4 Releases
 
@@ -26,9 +26,9 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 ### Community Updates
 
 * NodeSource announces N|Support on [their blog post](https://nodesource.com/blog/nodesource-announces-nsupport). N|Support is a premium support offering for Node.js developers, DevOps and IT operations teams. To learn more about N|Support offerings, check out [the solution page](https://nodesource.com/products/nsupport).
-* [apigee](https://apigee.com/) is [added to the Node Foundation](https://github.com/nodejs/nodejs.org/pull/151)
+* [Apigee](https://apigee.com/) is [added to the Node Foundation](https://github.com/nodejs/nodejs.org/pull/151)
 * [joyent/docker-node](https://github.com/joyent/docker-node) team is moved to [nodejs/docker](https://github.com/nodejs/docker-iojs) team. As a result, [@chorrell](https://github.com/chorrell) and [@dcrudgington](https://github.com/dcrudgington) joined [@nodejs/docker](https://github.com/orgs/nodejs/teams/docker) team.
-* [Intl](https://github.com/nodejs/intl) WG is launched. They dedicated to support and improvement of Internationalization and Localization in Node. Intl WG calls for participants in [their issue](https://github.com/nodejs/Intl/issues/5).
+* [Intl](https://github.com/nodejs/intl) WG is launched. They are dedicated to support and improvement of Internationalization and Localization in Node. Intl WG calls for participants in [their issue](https://github.com/nodejs/Intl/issues/5).
 
 ### Upcoming Events
 
