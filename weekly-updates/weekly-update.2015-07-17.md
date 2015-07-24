@@ -1,9 +1,9 @@
 ### io.js and Node.js News — July 17th
 io.js 2.4.0 is released, Apigee joined our foundation and Intl WG start.
 
-### io.js 2.4 Releases
+### io.js 2.4 Release
 
-This week we have one io.js releases: [v2.4.0](https://iojs.org/dist/v2.4.0/), complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md).
+This week we have one io.js release: [v2.4.0](https://iojs.org/dist/v2.4.0/), complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md).
 
 ### Notable Changes
 
