@@ -1,10 +1,10 @@
 # io.js and Node.js News
-This week we didn't have io.js releases, complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md).
+This week we didn't have io.js releases. complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md).
 
 ### Community Updates
 
 * Rod Vagg posted [an article about Node.js LTS](https://medium.com/@nodesource/essential-steps-long-term-support-for-node-js-8ecf7514dbd) on nodesource blog.
-* Daniel Kahn have written a blog post about [NODE_ENV in express](http://apmblog.dynatrace.com/2015/07/22/the-drastic-effects-of-omitting-node_env-in-your-express-js-applications/).
+* Daniel Kahn have written a blog post about [NODE_ENV in Express](http://apmblog.dynatrace.com/2015/07/22/the-drastic-effects-of-omitting-node_env-in-your-express-js-applications/).
 
 ### Upcoming Events
 
