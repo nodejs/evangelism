@@ -25,7 +25,7 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 
 * We need a V8 maintainer for our LTS build! Head on over [to GitHub](https://github.com/nodejs/LTS/issues/28) to see if the requirements match your capabilities.
 * [Milo Mordaunt](https://twitter.com/bananaoomarang) has written about [extending IFTTT with Webtask.io running Node.js code](https://auth0.com/blog/2015/07/28/if-this-then-node-dot-js-extending-ifttt-with-webtask-dot-io/?utm_source=io.js+and+Node.js+News&utm_medium=article) over on [Auth0](https://auth0.com/blog).
-* [Hemanth.HM](https://twitter.com/gnumanth), an author and contributor of more than 200 modules on npm has written about [authoring Node modules](http://h3manth.com/new/blog/2015/authoring-node-modules/?utm_source=io.js+and+Node.js+News&utm_medium=article).
+* [Hemanth.HM](https://twitter.com/gnumanth), an author and contributor of more than 200 modules on npm, has written about [authoring Node modules](http://h3manth.com/new/blog/2015/authoring-node-modules/?utm_source=io.js+and+Node.js+News&utm_medium=article).
 
 If you have spotted or written something about Node.js and io.js, do come over to our [Evangelism team repo](https://github.com/nodejs/evangelism) and suggest it on the [Issues page](https://github.com/nodejs/evangelism/issues), specifically the Weekly Updates issue.
 
