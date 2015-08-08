@@ -3,7 +3,7 @@ io.js v3.0 and the new goodness, breaking changes, and our ongoing call for an L
 
 ### io.js v3.0 Release
 
-This week io.js [v3.0.0](https://iojs.org/dist/v3.0.0/) is released! Since this is a major version bump, new features have been introduced to io.js. These are:
+This week, io.js [v3.0.0](https://iojs.org/dist/v3.0.0/) is released! Since this is a major version bump, new features have been introduced to io.js. These are:
 - V8 upgrade from v4.2 to v4.4. Rod Vagg ([@rvagg](http://twitter.com/rvagg)) has [a Gist containing the changelogs of v4.3 and v4.4](https://gist.github.com/rvagg/1f115074cb3c890985bf).
 - Computed property names (`{['foo'+'bar']:'bam'}`) is now shipped without the need for any `harmony-` flag.
 - Unicode escape sequence (`\u{xxxxx}`) is also shipped. There is no need for the `--harmony` option anymore.
@@ -20,7 +20,7 @@ With a major version bump, there are also breaking changes. These include:
 - HTTP status codes. The code mappings conform to the [IANA standard](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml) now and will be a backwards incompatible change to consumers that depend on the text value of a header.
 - The HTTP agent `.getName()`, which fixes the unnecessary extra colon at the end of the return values.
 
-You can find out more information about this release in the [complete changelog](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md), the [Breaking Changes document](https://github.com/nodejs/io.js/wiki/Breaking-Changes#300-from-2x) and the [pull request for the release proposal](https://github.com/nodejs/io.js/pull/2299).
+You can find out more information about this release in the [complete changelog](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md), the [Breaking Changes document](https://github.com/nodejs/io.js/wiki/Breaking-Changes#300-from-2x) and the [pull request for the release proposal](https://github.com/nodejs/io.js/pull/2299). In addition, [Yosuke Furukawa](https://twitter.com/yosuke_furukawa) has made a [repo with details about the new features](https://github.com/yosuke-furukawa/iojs-new-features).
 
 #### Notable changes
 
