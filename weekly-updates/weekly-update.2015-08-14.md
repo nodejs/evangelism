@@ -17,6 +17,7 @@ Jump on the conversation on the [nodejs/node issue page](https://github.com/node
 ### Community Updates
 
 * We *still* need a V8 maintainer for our LTS build! Head on over [to GitHub](https://github.com/nodejs/LTS/issues/28) to see if the requirements match your capabilities.
+* As mentioned up top, io.js v4.x will be Node.js v4.x. Or as [Mikeal Rogers](http://twitter.com/mikeal) said, [4.0 is the new 1.0](https://medium.com/node-js-javascript/4-0-is-the-new-1-0-386597a3436d).
 * The Node.js Collaborator Summit was hosted on 6th – 7th August in San Fransisco. You can see the notes in the [nodejs/summit](https://github.com/nodejs/summit) repository, [the GitHub issue](https://github.com/nodejs/summit/issues/11), or on [the Google Docs folder](https://drive.google.com/folderview?id=0B4tYrG9tjAW0fk9VOG52R2VQMmZHNWdpYnpqWU5MYUlfamNycktmeEl3UkNhdk1PS1Rid3c&usp=sharing).
 * [nodejs/collaboration](https://github.com/nodejs/collaboration) was made along with [the team](https://github.com/orgs/nodejs/teams/collaboration) to help with communication between Working Groups, as well as getting better ways to have evangelism, website, documentation and the 30+ i18n groups work together.
 * The new [Intl WG](https://github.com/nodejs/Intl) had [a meeting](https://github.com/nodejs/Intl/issues/8/?utm_source=io.js+and+Node.js+News&utm_medium=article) on August 11th.
