@@ -31,13 +31,13 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 
 ### Node.js v0.12 LTS plan has been shortened
 
-* Node.js v0.12 LTS plan has been shortened to end at the end of 2016. Because OpenSSL 1.0.1 LTS is scheduled until the end of 2016. The detail is [here](https://github.com/nodejs/LTS/pull/36).
+* Node.js v0.12 LTS plan has been shortened to end at the end of 2016, because OpenSSL 1.0.1 LTS is scheduled until the end of 2016. The detail is [here](https://github.com/nodejs/LTS/pull/36).
 
 ### Community Updates
 
 * We *still* need a V8 maintainer for our LTS build! Head on over [to GitHub](https://github.com/nodejs/LTS/issues/28) to see if the requirements match your capabilities.
-* [Marko Bonaći](https://github.com/mbonaci) published [his blog post](http://blog.sematext.com/2015/07/15/logging-cli-writing-first-node-project/) about his first usefule Node.js product which can search log files.
-* [Rod Vagg](https://github.com/rvagg) renewed [his entry about Node.js state of the build](https://medium.com/@rvagg/node-js-io-js-state-of-the-build-arm-2f24c18e1ab4). In the entry, We could know how Node core members test and build Node.js for ARM hardware.
+* [Marko Bonaći](https://github.com/mbonaci) published [his blog post](http://blog.sematext.com/2015/07/15/logging-cli-writing-first-node-project/) about his first useful Node.js product which can search log files.
+* [Rod Vagg](https://github.com/rvagg) updated [his post about the state of the Node.js build on ARM](https://medium.com/@rvagg/node-js-io-js-state-of-the-build-arm-2f24c18e1ab4). In the entry, Rod details how Node core members test and build Node.js for ARM hardware.
 
 If you have spotted or written something about Node.js and io.js, do come over to our [Evangelism team repo](https://github.com/nodejs/evangelism) and suggest it on the [Issues page](https://github.com/nodejs/evangelism/issues), specifically the Weekly Updates issue.
 
