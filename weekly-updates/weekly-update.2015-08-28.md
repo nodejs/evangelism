@@ -1,9 +1,15 @@
 ### io.js and Node.js News — August 28th
-io.js v3.2.0 and Node v4 evangelism, new.nodejs.org, nodefest/empirenode event.
+io.js v3.2.0/v3.3.0 and Node v4 evangelism, new.nodejs.org, nodefest/empirenode event.
 
-### io.js v3.2.0 Release
+### io.js v3.3.0 Notable changes
 
-### Notable changes
+* **build**: Add a `--link-module` option to `configure` that can be used to bundle additional JavaScript modules into a built binary (Bradley Meck) [#2497](https://github.com/nodejs/node/pull/2497)
+* **docs**: Merge outstanding doc updates from joyent/node (James M Snell) [#2378](https://github.com/nodejs/node/pull/2378)
+* **http_parser**: Significant performance improvement by having `http.Server` consume all initial data from its `net.Socket` and parsing directly without having to enter JavaScript. Any `'data'` listeners on the `net.Socket` will result in the data being "unconsumed" into JavaScript, thereby undoing any performance gains. (Fedor Indutny) [#2355](https://github.com/nodejs/node/pull/2355)
+* **libuv**: Upgrade to 1.7.3 (from 1.6.1), see [ChangeLog](https://github.com/libuv/libuv/blob/v1.x/ChangeLog) for details (Saúl Ibarra Corretgé) [#2310](https://github.com/nodejs/node/pull/2310)
+* **V8**: Upgrade to 4.4.63.30 (from 4.4.63.26) (Michaël Zasso) [#2482](https://github.com/nodejs/node/pull/2482)
+
+### io.js v3.2.0 Notable changes
 
 * **events**: Added `EventEmitter#listenerCount(event)` as a replacement for `EventEmitter.listenerCount(emitter, event)`, which has now been marked as deprecated in the docs. (Sakthipriyan Vairamani) [#2349](https://github.com/nodejs/node/pull/2349)
 * **module**: Fixed an error with preloaded modules when the current working directory doesn't exist. (Bradley Meck) [#2353](https://github.com/nodejs/node/pull/2353)
@@ -26,7 +32,7 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 
 ### We need Node.js v4 evangelists
 
-* Node.js v4 is released soon. We need evangelists for Node.js v4. If you have an interest to evangelize, send your information in [this issue](https://github.com/nodejs/node/issues/2633).
+* Node.js v4 is released soon. We need evangelists for Node.js v4. If you have an interest to evangelize, provide your information in [this issue](https://github.com/nodejs/node/issues/2633).
 * Current members:
 - Fedor Indutny ([@indutny](https://github.com/indutny))
 - Yosuke Furukawa ([@yosuke-furukawa](https://github.com/yosuke-furukawa))
@@ -42,6 +48,10 @@ See https://github.com/nodejs/io.js/labels/confirmed-bug for complete and curren
 - Stephen Belanger ([@Qard](https://github.com/Qard))
 - Ben Noordhuis ([@bnoordhuis](https://github.com/bnoordhuis))
 - Trevor Norris ([@trevnorris](https://github.com/trevnorris))
+- Rod Vagg ([@rvagg](https://github.com/rvagg))
+- Evan Lucas ([@evanlucas](https://github.com/evanlucas))
+- Daniel Khan ([@danielkhan](https://github.com/danielkhan))
+- Raja Sekar ([@rajzshkr](https://github.com/rajzshkr))
 
 ### New nodejs.org went live today
 
@@ -60,7 +70,7 @@ If you have spotted or written something about Node.js and io.js, do come over t
 * [nodeday](http://nodeday.com/) tickets are on sale, September 10th at Karnataka, India
 * [Node.js Italian Conference](http://nodejsconf.it/) tickets are on sale, October 10th at Desenzano - Brescia, Italy
 * [EmpireNode](http://2015.empirenode.org/), October 23rd at New York, US.
-* [JSConf CO](http://www.jsconf.co/), October 16th - 17th at Ruta N, Medellin
+* [JSConf CO](http://www.jsconf.co/), October 16th - 17th at Ruta N, Medellin, Columbia
 * [NodeFest](http://nodefest.jp/2015/), November 7th at Tokyo, Japan
 * [Nodevember](http://nodevember.org/?utm_source=io.js+and+Node.js+News&utm_medium=article), November 14th - 15th at Nashville, Tennessee, US.
 
