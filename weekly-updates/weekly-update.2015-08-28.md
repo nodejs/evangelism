@@ -1,6 +1,11 @@
 ### io.js and Node.js News — August 28th
 io.js v3.2.0/v3.3.0 and Node v4 evangelism, new.nodejs.org, nodefest/empirenode event.
 
+### io.js 3.2 and 3.3 Releases
+
+This week we have two io.js releases: [v3.2.0](https://iojs.org/dist/v3.2.0/) and [v3.3.0](https://iojs.org/dist/v3.3.0/), complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/io.js/blob/master/CHANGELOG.md).
+
+
 ### io.js v3.3.0 Notable changes
 
 * **build**: Add a `--link-module` option to `configure` that can be used to bundle additional JavaScript modules into a built binary (Bradley Meck) [#2497](https://github.com/nodejs/node/pull/2497)
