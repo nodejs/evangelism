@@ -3,19 +3,19 @@
 How to get involved!
 --------------------
 
-There are lots of ways to contribute to [io.js](https://github.com/iojs). If you are interested in contribution to io.js evangelism specifically, feel free to join in the conversations, help with [issues](https://github.com/iojs/evangelism/issues), and share the [roadmap](https://github.com/iojs/roadmap/). You don't have to be a member of the Working Group to pitch in!
+There are lots of ways to contribute to [Node.js](https://github.com/nodejs). If you are interested in contribution to Node.js evangelism specifically, feel free to join in the conversations, help with [issues](https://github.com/nodejs/evangelism/issues), and share the [roadmap](https://github.com/nodejs/roadmap/). You don't have to be a member of the Working Group to pitch in!
 
 Join the conversation!
 
-[![Join the chat at https://gitter.im/iojs/evangelism](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/evangelism?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/nodejs/evangelism](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodejs/evangelism?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Letting the world know how awesome io.js is and how to get involved!
+Letting the world know how awesome Node.js is and how to get involved!
 
 
 
 
 ### Governance and Contributing
-The io.js Evangelism WG has adopted the core governance and contributing policies of io.js.
+The Node.js Evangelism WG has adopted the core governance and contributing policies of Node.js.
 
 You can view them at:
 
