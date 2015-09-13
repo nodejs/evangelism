@@ -3,7 +3,7 @@ Node.js v4.0.0 is released
 
 ### Node.js v4.0.0
 
-This week is the most historical week. Finally we have released Node.js v4.0.0(stable). All thanks to the every Node/io.js collaborator. This Node.js is the most stable Node ever. We have reviewed all of patches and the state of the test suite is more stable and there are more active contributors in new Node.
+This week is the most historical week. Finally we have released Node.js v4.0.0(stable). Thanks to the every Node/io.js collaborator. This Node.js is the most stable Node ever. We have reviewed all of patches and the state of the test suite is more stable and there are more active contributors in new Node.
 
 We would like to talk about this news, changes, features. But currently we don't have so much spaces and times. We hope that Node community will post more blog entries or more news.
 
