@@ -32,3 +32,4 @@ You can view them at:
 * [Yosuke Furukawa](https://github.com/yosuke-furukawa) - [@yosuke-furukawa](https://twitter.com/yosuke_furukawa)
 * [Tony Pujals](https://github.com/tonypujals) - [@subfuzion](https://twitter.com/subfuzion)
 * [Giovanny Andres Gongora Granada](https://github.com/Gioyik) - [@Gioyik](https://twitter.com/Gioyik)
+* [Minwoo Jung](https://github.com/JungMinu) - [@jmwsoft](https://twitter.com/jmwsoft)
