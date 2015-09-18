@@ -43,7 +43,7 @@ See https://github.com/nodejs/node/labels/confirmed-bug for complete and current
 
 ### Node.js Foundation Combines Node.js and io.js Into Single Codebase in New Release
 
-Node.js Foundation posts an entry about Node.js new release and introduction of Node Foundation. [The detail is here](https://nodejs.org/en/blog/announcements/foundation-v4-announce/)
+Node.js Foundation posts an entry about Node.js new release and introduction of Node Foundation. [The details are here](https://nodejs.org/en/blog/announcements/foundation-v4-announce/)
 
 ### Node.js Interactive
 
@@ -53,19 +53,19 @@ Node.js Foundation posts an entry about Node.js new release and introduction of 
 
 * We *still* need a V8 maintainer for our LTS build! Head on over [to GitHub](https://github.com/nodejs/LTS/issues/28) to see if the requirements match your capabilities.
 * According to [Raygun blog](https://raygun.io/blog/2015/09/nodejs-and-io-js-are-now-one/), Node.js v4.0.0 is 8% faster than Node.js v0.12.
-* Tony Pujals, evangelism WG member, posts an [entry about Node.js v4.0.0](https://www.linkedin.com/pulse/node-v400-here-tony-pujals), He introduced about ES6 on Node.js v4.0.0, LTS, and SemVer.
+* Tony Pujals, evangelism WG member, posts an [entry about Node.js v4.0.0](https://www.linkedin.com/pulse/node-v400-here-tony-pujals), He discusses ES6 in Node.js v4.0.0, LTS, and SemVer.
 
-If you have spotted or written something about Node.js and io.js, do come over to our [Evangelism team repo](https://github.com/nodejs/evangelism) and suggest it on the [Issues page](https://github.com/nodejs/evangelism/issues), specifically the Weekly Updates issue.
+If you have spotted or written something about Node.js, do come over to our [Evangelism team repo](https://github.com/nodejs/evangelism) and suggest it on the [Issues page](https://github.com/nodejs/evangelism/issues), specifically the Weekly Updates issue.
 
 ### Upcoming Events
 
 * [Node.js Italian Conference](http://nodejsconf.it/) tickets are on sale, October 10th at Desenzano - Brescia, Italy
-* [EmpireNode](http://2015.empirenode.org/), October 23rd at New York, US.
 * [JSConf CO](http://www.jsconf.co/), October 16th - 17th at Ruta N, Medellin, Columbia
+* [EmpireNode](http://2015.empirenode.org/), October 23rd at New York, US.
 * [NodeFest](http://nodefest.jp/2015/), November 7th at Tokyo, Japan
 * [Nodevember](http://nodevember.org/?utm_source=io.js+and+Node.js+News&utm_medium=article), November 14th - 15th at Nashville, Tennessee, US.
 * [NodeConf Barcelona](https://ti.to/barcelonajs/nodeconf-barcelona-2015), November 21st at Barcelona, Spain
-* [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive), December 8-9 at Portland US.
+* [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive), December 8-9 at Portland, US.
 
-Have an event about Node.js and io.js coming up? You can put your events here through the [Evangelism team repo](https://github.com/nodejs/evangelism) and announce it in the [Issues page](https://github.com/nodejs/evangelism/issues), specifically the Weekly Updates issue.
+Have an event about Node.js coming up? You can put your events here through the [Evangelism team repo](https://github.com/nodejs/evangelism) and announce it in the [Issues page](https://github.com/nodejs/evangelism/issues), specifically the Weekly Updates issue.
 
