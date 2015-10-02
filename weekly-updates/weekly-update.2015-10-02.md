@@ -34,7 +34,8 @@ See https://github.com/nodejs/node/labels/confirmed-bug for complete and current
 
 ### Security Updates
 
-* [CVE-2015-7384 Denial of Service Vulnerability](https://groups.google.com/forum/#!topic/nodejs-sec/fSNEQiuof6I), "A new v4.x release on **Monday the 5th of October 2015** will be made available with appropriate fixes for this vulnerability along with disclosure of the details of the bug to allow for complete impact assessment by users", Please subscribe to the low-volume announcement-only **nodejs-sec** mailing list at https://groups.google.com/forum/#!forum/nodejs-sec to stay up to date with security vulnerabilities in Node.js and the projects maintained in the **nodejs** [GitHub organization](http://github.com/nodejs/).
+* [CVE-2015-7384 Denial of Service Vulnerability](https://groups.google.com/forum/#!topic/nodejs-sec/fSNEQiuof6I), "A new v4.x release on **Monday the 5th of October 2015** will be made available with appropriate fixes for this vulnerability along with disclosure of the details of the bug to allow for complete impact assessment by users"
+* Please subscribe to the low-volume announcement-only **nodejs-sec** mailing list at https://groups.google.com/forum/#!forum/nodejs-sec to stay up to date with security vulnerabilities in Node.js and the projects maintained in the **nodejs** [GitHub organization](http://github.com/nodejs/).
 
 Please contact secu...@nodejs.org if you wish to report a vulnerability in Node.js.
 
