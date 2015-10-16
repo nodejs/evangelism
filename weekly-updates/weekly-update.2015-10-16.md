@@ -27,8 +27,7 @@ This week we have two releases: [Node.js v4.2.1 (LTS)](https://nodejs.org/en/blo
 * **node**:
   - Added new `-c` (or `--check`) command line argument for checking script syntax without executing the code (Dave Eddy) [#2411](https://github.com/nodejs/node/pull/2411)
   - Added `process.versions.icu` to hold the current ICU library version (Evan Lucas) [#3102](https://github.com/nodejs/node/pull/3102)
-  - Added `process.release.lts` to hold the current LTS codename when the binary is from an active LTS release line (Rod Vagg) [#3212](https://github.com/nodejs/node/pull/3212)
-  - 
+
 ### Community Updates
 
 * [Node.js v4.2.1 Release Summary and Stats](https://nodesource.com/blog/nodejs-v421-release-summary-and-stats), "Closely tracking the Long Term Support plan, 4.2.0 and 4.2.1 have been released this week as LTS. v4.2.1 has been released to fix two critical regressions in v4.2.0. It is highly suggested you use v4.2.1 instead of v4.2.0"
