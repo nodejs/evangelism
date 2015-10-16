@@ -13,29 +13,27 @@ Node.js v4.2.1 (LTS), v4.2.0 (LTS) are released
 
 ### Node.js v4.2.1 (LTS) and v4.2.0 (LTS) Releases
 
-This week we have two releases: [Node.js v4.2.1 (LTS)](https://nodejs.org/en/blog/release/v4.2.1/) and [Node.js v4.2.0 (LTS)](https://nodejs.org/en/blog/release/v4.2.0/). complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/node/blob/master/CHANGELOG.md).
+This week we have two releases: [Node.js v4.2.1 (LTS)](https://nodejs.org/en/blog/release/v4.2.1/) and [Node.js v4.2.0 (LTS)](https://nodejs.org/en/blog/release/v4.2.0/). Complete changelog from previous releases can be found [on GitHub](https://github.com/nodejs/node/blob/master/CHANGELOG.md).
 
-### Notable changes
+### Notable changes : v4.2.1 (LTS)
 
 * Includes fixes for two regressions
   - Assertion error in WeakCallback  - see [#3329](https://github.com/nodejs/node/pull/3329)
   - Undefined timeout regression - see [#3331](https://github.com/nodejs/node/pull/3331)
 
-### Known issues
+### Notable changes : v4.2.0 (LTS)
 
-* When a server queues a large amount of data to send to a client over a pipelined HTTP connection, the underlying socket may be destroyed. See [#3332](https://github.com/nodejs/node/issues/3332) and [#3342](https://github.com/nodejs/node/pull/3342).
-* Some problems with unreferenced timers running during `beforeExit` are still to be resolved. See [#1264](https://github.com/nodejs/node/issues/1264).
-* Surrogate pair in REPL can freeze terminal. [#690](https://github.com/nodejs/node/issues/690)
-* Calling `dns.setServers()` while a DNS query is in progress can cause the process to crash on a failed assertion. [#894](https://github.com/nodejs/node/issues/894)
-* `url.resolve` may transfer the auth portion of the url when resolving between two full hosts, see [#1435](https://github.com/nodejs/node/issues/1435).
-
+* **icu**: Updated to version 56 with significant performance improvements (Steven R. Loomis) [#3281](https://github.com/nodejs/node/pull/3281)
+* **node**:
+  - Added new `-c` (or `--check`) command line argument for checking script syntax without executing the code (Dave Eddy) [#2411](https://github.com/nodejs/node/pull/2411)
+  - Added `process.versions.icu` to hold the current ICU library version (Evan Lucas) [#3102](https://github.com/nodejs/node/pull/3102)
+  - Added `process.release.lts` to hold the current LTS codename when the binary is from an active LTS release line (Rod Vagg) [#3212](https://github.com/nodejs/node/pull/3212)
+  - 
 ### Community Updates
 
 * [Node.js v4.2.1 Release Summary and Stats](https://nodesource.com/blog/nodejs-v421-release-summary-and-stats), "Closely tracking the Long Term Support plan, 4.2.0 and 4.2.1 have been released this week as LTS. v4.2.1 has been released to fix two critical regressions in v4.2.0. It is highly suggested you use v4.2.1 instead of v4.2.0"
 * [A Hubot Plugin that Helps You to Choose Where to Drink Coffee](http://ditrospecta.com/javascript/plugin/hubot/2015/10/03/hubot-plugin-choose-place-to-drink-coffee.html), "Hubot is a very friendly and easy extensible bot written in Coffeescript"
-* [Building using Node-GYP with Visual Studio Express 2015 on Windows 10 Pro x64](http://www.serverpals.com/blog/building-using-node-gyp-with-visual-studio-express-2015-on-windows-10-pro-x64), "Setting up a development environment, using Node-GYP with Visual Studio Express 2015 on Windows 10 Pro x64"
 * [Linux and Node.js in Production using Daemontools and NDT](http://www.serverpals.com/blog/linux-nodejs-in-production-using-daemontools-ndt), "Putting the application to the test with Linux and Node.js in Production using Daemontools and NDT"
-* [Using Bower with BowerCDN for better web performance!](http://www.serverpals.com/blog/using-bower-with-bowercdn-for-better-web-performance), "BowerCDN is a service built on the bower API that installs and maintains permalinks to bower repository content"
 
 If you have spotted or written something about Node.js, do come over to our [Evangelism team repo](https://github.com/nodejs/evangelism) and suggest it on the [Issues page](https://github.com/nodejs/evangelism/issues), specifically the Weekly Updates issue.
 
@@ -43,8 +41,8 @@ If you have spotted or written something about Node.js, do come over to our [Eva
 
 * [JSConf CO](http://www.jsconf.co/), October 16th - 17th at Ruta N, Medellin, Colombia
 * [EmpireNode](http://2015.empirenode.org/), October 23rd at New York, US.
-* [NodeFest](http://nodefest.jp/2015/), November 7th at Stack Exchange HQ, Old St
-* [Node Girls London](https://nodegirls.typeform.com/to/atW4HR), November 7th at Stack Exchange HQ, Old St
+* [NodeFest](http://nodefest.jp/2015/), November 7th at Tokyo, Japan
+* [Node Girls London](https://nodegirls.typeform.com/to/atW4HR), November 7th at London, UK
 * [Playnode](http://playnode.io/), November 12nd at Seoul, South Korea
 * [Nodevember](http://nodevember.org/?utm_source=io.js+and+Node.js+News&utm_medium=article), November 14th - 15th at Nashville, Tennessee, US.
 * [NodeConf Barcelona](https://ti.to/barcelonajs/nodeconf-barcelona-2015), November 21st at Barcelona, Spain
