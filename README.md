@@ -1,5 +1,11 @@
 # Evangelism
 
+## What does the Node.js Evangelism WG do?
+The Evangelism WG creates promotional materials, brings discussions to a wider audience, and attemps to grow the community through positive, supportive messaging.
+
+## Why should you contribute to the Evangelism WG?
+The Evangelism WG tries to bring more people into Node, and add to the experience of the ones that are already in it. If you are interested in social media, identity, messaging, writing, or communication, you could be a valuable asset to the WG.
+
 How to get involved!
 --------------------
 
@@ -8,11 +14,6 @@ There are lots of ways to contribute to [Node.js](https://github.com/nodejs). If
 Join the conversation!
 
 [![Join the chat at https://gitter.im/nodejs/evangelism](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodejs/evangelism?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-Letting the world know how awesome Node.js is and how to get involved!
-
-
-
 
 ### Governance and Contributing
 The Node.js Evangelism WG has adopted the core governance and contributing policies of Node.js.
