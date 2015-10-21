@@ -1,6 +1,6 @@
 ## Structure/Format
 
-Two to three presenters has been found to be best, by multiple meetups. 20-30
+Two to three presenters has been found to be best by multiple meetup coordinators. 20-30
 minute talks for each presenter is the sweet spot -  presentations run the risk
 of becoming too lengthy, and may lose interest of the audience. You can
 specifically structure your event to a set number of speakers - two speakers
