@@ -1,8 +1,18 @@
 ## Structure/Format
 
-Two to three presenters has been found to be best, by multiple meetups. 20-30 minute talks for each presenter is the sweet spot -  presentations run the risk of becoming too lengthy, and may lose interest of the audience. You can specifically structure your event to a set number of speakers - two speakers might be beneficial to give both a basic and an advanced talk, catering to the two groups. Over your first few events, try different formats (two 30 minutes, three 20 minutes, two 20 minutes and 20 minutes of Q&A, and so on) and see which ones you think work best.
+Two to three presenters has been found to be best, by multiple meetups. 20-30
+minute talks for each presenter is the sweet spot -  presentations run the risk
+of becoming too lengthy, and may lose interest of the audience. You can
+specifically structure your event to a set number of speakers - two speakers
+might be beneficial to give both a basic and an advanced talk, catering to the
+two groups. Over your first few events, try different formats (two 30 minutes,
+three 20 minutes, two 20 minutes and 20 minutes of Q&A, and so on) and see which
+ones you think work best.
 
-As you start, solicit developers to come present at your meetup. You should plan out speakers a few events out - you want to be sure that you have people to speak at your event, and to be able to ensure speakers will have enough notice to ensure you're on their schedules.
+As you start, solicit developers to come present at your meetup. You should
+plan out speakers a few events out - you want to be sure that you have people
+to speak at your event, and to be able to ensure speakers will have enough
+notice to ensure you're on their schedules.
 
 #### Protips:
 * "We generally have one beginner type talk and a more advanced one. Structuring our events this way allows us to reach a wide audience and have something more in depth for those that have been in the ecosystem for a while. Structuring our events this way allows us to reach a wide audience and have something more in depth for those that have been in the ecosystem for a while." - @paulgrock on GitHub
@@ -12,9 +22,12 @@ As you start, solicit developers to come present at your meetup. You should plan
 
 
 ## RSVP
-Using an online event/meetup planning site is the standard. [Meetup.com](http://www.meetup.com/) and [ti.to](https://ti.to/) are two that are used at a few popular Node meetups. You can base the number of RSVPs available on your venue's capacity.
+Using an online event/meetup planning site is the standard. [Meetup.com](http://www.meetup.com/) and
+[ti.to](https://ti.to/) are two that are used at a few popular Node meetups. You can base
+the number of RSVPs available on your venue's capacity.
 
-**Food and drink** reserves are needed for the event. RSVPs are important for measuring food and drink coverage, as they help you gauge how much you need.
+**Food and drink** reserves are needed for the event. RSVPs are important for
+measuring food and drink coverage, as they help you gauge how much you need.
 
 #### Protips:
 * "We base the number of RSVPs depending on the capacity of the space we're using for the month." @paulgrock on GitHub
@@ -23,7 +36,10 @@ Using an online event/meetup planning site is the standard. [Meetup.com](http://
 
 
 ## Sponsors
-Sponsors can help cover costs of the event. Food and drink, venue, gear, and management resources and costs can be covered by them. Sponsors can also help provide content for your event - having a talk given by one of their employees, about their product, can be a benefit both to you and the sponsor.
+Sponsors can help cover costs of the event. Food and drink, venue, gear, and
+management resources and costs can be covered by them. Sponsors can also help
+provide content for your event - having a talk given by one of their employees,
+about their product, can be a benefit both to you and the sponsor.
 
 #### Protips:
 * "[We have] no sponsors for our group. Though we do have a company around SF host the event which usually involves setting up places for guests to sit, providing food/drinks and A/V setup for the speakers." @paulgrock on GitHub
@@ -33,7 +49,10 @@ Sponsors can help cover costs of the event. Food and drink, venue, gear, and man
 * "It is extremely important for us to try and select local business over established brands and chain suppliers. For instance food is provided by a local cafe over subway (same price per head)." @iancrowther on GitHub
 
 ## Preperation
-Venue, food and drink supplies, venue setup (physical objects like signage, chairs and tables, cleaning resources, and so on, as well as digital presentation tools like projectors and a demo computer), and anything else that comes up in planning needs to be taken care of before the event starts.
+Venue, food and drink supplies, venue setup (physical objects like signage,
+chairs and tables, cleaning resources, and so on, as well as digital
+presentation tools like projectors and a demo computer), and anything else that
+comes up in planning needs to be taken care of before the event starts.
 
 #### Protips:
 * "For location we started out by hosting at locations that our organizers worked at or knew people who worked at that place. After a few months companies started reaching out to us to host. If we haven't had a company volunteer to host we can fallback to one of our organizers' locations. A lot of locations require a guest list for security purposes. Having a copy on hand is also good if the event is rigid about RSVPs and waitlists." @paulgrock on GitHub
@@ -42,10 +61,10 @@ Venue, food and drink supplies, venue setup (physical objects like signage, chai
 * "We have x2 pizza runs. the first one is early and gets devoured! the second one means late comers don't miss out and everyone is supplied with a supply of warm pizza and cold beer! We get good feedback for this." @iancrowther on GitHub
 * "If you supply drinks etc, get them delivered! the additional cost is worth it as you have too much else going on and need to be onsite." @iancrowther on GitHub
 * "Make sure the address is on tickets, the website, the newsletter.. basically everywhere.. and be clear on how to cancel them." @iancrowther on GitHub
-*
 
-## Code of Conduct
-CoCs are _very_ important at meetups - they ensure appropriate behavior is maintained, and allow for enforcement when they are not followed correctly.
+## Code of Conduct (CoC)
+CoCs are _very_ important at meetups - they ensure appropriate behavior is
+maintained, and allow for enforcement when they are not followed correctly.
 
 #### Protips:
 * "Be prepared to enforce your Code of Conduct. We had one event about 1-1/2 years ago where the speaker, completely out of the blue, made a really inappropriate joke during his talk. Then another. And finally one more. Thankfully that was all because none of us were ready to step in, and we ended up letting it slide without saying a word. We really dropped the ball, and I will never let that happen again."
