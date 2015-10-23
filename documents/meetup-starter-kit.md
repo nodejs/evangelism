@@ -1,6 +1,6 @@
 ## Structure/Format
 
-Two to three presenters has been found to be best by multiple meetup coordinators.
+Meetup organizers have found that two to three presenters give good balance to a meetup.
 * 20-30 minute talks for each presenter is the sweet spot.
   * Presentations run the risk of becoming too lengthy, and may lose interest of the audience.
 * You can specifically structure your event to a set number of speakers
@@ -28,6 +28,11 @@ the number of RSVPs available on your venue's capacity.
 **Food and drink** reserves are needed for the event. RSVPs are important for
 measuring food and drink coverage, as they help you gauge how much you need.
 
+**Attendance**  for a free meetup can be as low as 10% of the total RSVPs.
+Charging a small fee will bring a higher level of commitment to attendance.
+For free meetups with RSVP, you may want to cap the RSVP over the actual capacity
+of your event.
+
 #### Protips:
 * "We base the number of RSVPs depending on the capacity of the space we're using for the month." @paulgrock on [GitHub](https://github.com/nodejs/evangelism/issues/162#issuecomment-145303436)
 * "We use meetup.com to manage RSVPs so we can limit attendance to the venue capacity and plan food/beverage. We typically see ~50% of RSVPs actually attend." @danmactough on [GitHub](https://github.com/nodejs/evangelism/issues/162#issuecomment-145729309)
@@ -39,6 +44,10 @@ Sponsors can help cover costs of the event. Food and drink, venue, gear, and
 management resources and costs can be covered by them. Sponsors can also help
 provide content for your even. Having a talk given by one of their employees,
 about their product, can be a benefit both to you and the sponsor.
+
+Sponsors aren't always necessary, however. It takes a lot of extra work to 
+communicate, set up, and maintain a relationship with them. A meetup can succeed
+without them, you just need to manage and invest personal resources a bit more.
 
 #### Protips:
 * "[We have] no sponsors for our group. Though we do have a company around SF host the event which usually involves setting up places for guests to sit, providing food/drinks and A/V setup for the speakers." @paulgrock on [GitHub](https://github.com/nodejs/evangelism/issues/162#issuecomment-145303436)
