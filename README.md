@@ -34,3 +34,4 @@ You can view them at:
 * [Tony Pujals](https://github.com/tonypujals) - [@subfuzion](https://twitter.com/subfuzion)
 * [Giovanny Andres Gongora Granada](https://github.com/Gioyik) - [@Gioyik](https://twitter.com/Gioyik)
 * [Minwoo Jung](https://github.com/JungMinu) - [@jmwsoft](https://twitter.com/jmwsoft)
+* [Rich Trott](https://github.com/Trott) - [@Trott](https://twitter.com/Trott)
