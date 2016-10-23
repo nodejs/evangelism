@@ -6,7 +6,7 @@ of such summaries is yet to be defined.
 ## Goals
 
 * It will be easier for newcomers to join an ongoing discussion.
-* External communication regarding the uture orientations of the platform will be clearer.
+* External communication regarding the future orientations of the platform will be clearer.
 
 ## Roadmap
 
