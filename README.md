@@ -35,3 +35,5 @@ You can view them at:
 * [Giovanny Andres Gongora Granada](https://github.com/Gioyik) - [@Gioyik](https://twitter.com/Gioyik)
 * [Minwoo Jung](https://github.com/JungMinu) - [@jmwsoft](https://twitter.com/jmwsoft)
 * [Rich Trott](https://github.com/Trott) - [@Trott](https://twitter.com/Trott)
+* [Vladimir de Turckheim](https://github.com/vdeturckheim) - [@poledesfetes](https://twitter.com/poledesfetes)
+
