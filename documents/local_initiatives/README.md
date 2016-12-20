@@ -17,9 +17,6 @@ You need three things to list a group in the directory.
 
 If you want to submit an initiative you're a part of, or know someone who is a part of, you can add it to the list by submitting a PR to the [documents/local_iniatives/current-initiatives.md](./current-initiatives.md) file in this repository.
 
-## Step 1: Add your region.
-
-
 ### What should I submit in a PR?
 
 The initiative directory should follow the format below:
