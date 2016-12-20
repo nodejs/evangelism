@@ -36,4 +36,5 @@ You can view them at:
 * [Minwoo Jung](https://github.com/JungMinu) - [@jmwsoft](https://twitter.com/jmwsoft)
 * [Rich Trott](https://github.com/Trott) - [@Trott](https://twitter.com/Trott)
 * [Vladimir de Turckheim](https://github.com/vdeturckheim) - [@poledesfetes](https://twitter.com/poledesfetes)
+* [Daniel Khan](https://github.com/danielkhan) - [@dkhan](https://twitter.com/dkhan)
 
