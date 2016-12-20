@@ -1,6 +1,6 @@
 ### Evangelism Working Group
 
-The io.js Evangelism group is jointly governed by a Working Group (WG)
+The Node.js Evangelism group is jointly governed by a Working Group (WG)
 which is responsible for high-level guidance of the project.
 
 The WG has final authority over this project including:
@@ -17,7 +17,7 @@ For the current list of WG members, see the project
 
 ### Collaborators
 
-The io.js Evangelism WG GitHub repository is
+The Node.js Evangelism WG GitHub repository is
 maintained by the WG and additional Collaborators who are added by the
 WG on an ongoing basis.
 
@@ -30,7 +30,7 @@ _Note:_ If you make a significant contribution and are not considered
 for commit-access log an issue or contact a WG member directly and it
 will be brought up in the next WG meeting.
 
-Modifications of the contents of the io.js Evangelism WG repository are made on
+Modifications of the contents of the Node.js Evangelism WG repository are made on
 a collaborative basis. Anybody with a GitHub account may propose a
 modification via pull request and it will be considered by the project
 Collaborators. All pull requests must be reviewed and accepted by a
