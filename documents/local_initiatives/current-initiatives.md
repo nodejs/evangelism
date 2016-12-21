@@ -6,7 +6,7 @@
 
 Location | Event | Website | Contact Point
 -------- | ----- | ------- | -------------
-St. Louis | Node.jSTL | <https://www.meetup.com/node-jSTL/> | Twitter: @thekeithchester
+St. Louis | Node.jSTL | <https://www.meetup.com/node-jSTL/> | Twitter: [@thekeithchester](https://twitter.com/thekeithchester?lang=fr)
 
 ## India
 
