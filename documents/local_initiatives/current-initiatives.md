@@ -5,14 +5,14 @@
 ### Florida
 Location | Event | Website | Contact Point
 -------- | ----- | ------- | -------------
-Jacksonville | JaxNode | <https://www.jaxnode.com/> | Twitter: [@jaxnode](https://twitter.com/jaxnode?lang=en)
+Jacksonville | JaxNode | <https://www.jaxnode.com/> | Twitter: [@jaxnode](https://twitter.com/jaxnode)
 
 
 ### Missouri
 
 Location | Event | Website | Contact Point
 -------- | ----- | ------- | -------------
-St. Louis | Node.jSTL | <https://www.meetup.com/node-jSTL/> | Twitter: [@thekeithchester](https://twitter.com/thekeithchester?lang=fr)
+St. Louis | Node.jSTL | <https://www.meetup.com/node-jSTL/> | Twitter: [@thekeithchester](https://twitter.com/thekeithchester)
 
 ## India
 
