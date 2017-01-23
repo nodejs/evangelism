@@ -7,6 +7,11 @@ Location | Event | Website | Contact Point
 -------- | ----- | ------- | -------------
 Jacksonville | JaxNode | <https://www.jaxnode.com/> | Twitter: [@jaxnode](https://twitter.com/jaxnode)
 
+### Illinois
+
+Location | Event | Website | Contact Point
+-------- | ----- | ------- | -------------
+Chicago | Chicago Node.js | <https://www.meetup.com/Chicago-Nodejs/> | Twitter: [@mikehostetler](https://twitter.com/mikehostetler)
 
 ### Missouri
 
