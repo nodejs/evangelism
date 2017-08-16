@@ -23,6 +23,8 @@ You can view them at:
 [GOVERNANCE.md](./GOVERNANCE.md)  
 [CONTRIBUTING.md](./CONTRIBUTING.md)
 
+The Evangelism WG is chartered by the [Node.js Community Committee](https://github.com/nodejs/community-committee).
+
 ### Evangelism WG Members
 
 * [Mikeal Rogers](http://github.com/mikeal) - [@mikeal](http://twitter.com/mikeal)
