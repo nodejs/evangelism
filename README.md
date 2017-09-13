@@ -9,7 +9,7 @@ The Evangelism WG tries to bring more people into Node, and add to the experienc
 How to get involved!
 --------------------
 
-There are lots of ways to contribute to [Node.js](https://github.com/nodejs). If you are interested in contribution to Node.js evangelism specifically, feel free to join in the conversations, help with [issues](https://github.com/nodejs/evangelism/issues), and share the [roadmap](https://github.com/nodejs/roadmap/). You don't have to be a member of the Working Group to pitch in!
+There are lots of ways to contribute to [Node.js](https://github.com/nodejs). If you are interested in contribution to Node.js evangelism specifically, feel free to join in the conversations, comment on and create [issues](https://github.com/nodejs/evangelism/issues) where you see fit, submit [pull requests](https://github.com/nodejs/evangelism/pulls) if something can be improved, and helping others [get started](https://github.com/nodejs/getting-started/). You don't have to be a member of the Working Group to pitch in!
 
 ### Governance and Contributing
 The Node.js Evangelism WG has adopted the core governance and contributing policies of Node.js.
