@@ -30,4 +30,4 @@ By making a contribution to this project, I certify that:
 
 The Code of Conduct explains the *bare minimum* behavior
 expectations the Node Foundation requires of its contributors.
-[Please read it before participating.](https://github.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md)
+[Please read it before participating.](https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md)
