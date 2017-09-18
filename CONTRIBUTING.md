@@ -29,5 +29,5 @@ By making a contribution to this project, I certify that:
 ### Code of Conduct
 
 The Code of Conduct explains the *bare minimum* behavior
-expectations the Node Foundation requires of its contributors.
+expectations the Node.js Foundation requires from all contributors.
 [Please read it before participating.](https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md)
