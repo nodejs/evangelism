@@ -35,4 +35,4 @@ Location | Event | Website | Contact Point
 -------- | ----- | ------- | -------------
 London | London Node User Group (LNUG) | <https://lnug.org/> | Twitter: [@LNUGorg](https://twitter.com/LNUGorg)
 London | NodeSchool London | <https://nodeschool.io/london/> | Gitter: [NodeSchool London](https://gitter.im/nodeschool/london)
-London | Node Girls London | <https://nodegirls.io/london> | Twitter: [@nodegirls_ldn](https://twitter.com/nodegirls_ldn)
+London | Node Girls London | <https://nodegirls.io/london> | Twitter: [@nodegirlslondon](https://twitter.com/nodegirlslondon)
